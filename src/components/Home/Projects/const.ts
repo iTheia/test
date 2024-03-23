@@ -4,7 +4,7 @@ export const mainProjects: IProject[] = [
     description:
       "Desarrollé un clon de Instagram como proyecto personal, expandiendo las funcionalidades de autenticación con registro de usuarios, gestión de tokens de autenticación y sistema de paginación. Utilicé Node.js con Express.js para construir el servidor BackEnd y MongoDB para la persistencia de datos. En el FrontEnd, implementé la interfaz de usuario utilizando React.js, aprovechando su capacidad para crear componentes reutilizables y mantener una interfaz de usuario dinámica y receptiva. \n Este proyecto me permitió adquirir experiencia práctica en el desarrollo de aplicaciones web completas, desde la autenticación de usuarios hasta la gestión de datos y la integración de tecnologías FrontEnd modernas como React",
     image: "instagram.PNG",
-    github: "https://miflink.com/", // Estamos seguros de que este es el enlace correcto?
+    github: "https://github.com/Sirakusa/Instagram-react.git", // Estamos seguros de que este es el enlace correcto?
   },
   {
     name: "App de Turismo",
